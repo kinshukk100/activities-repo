@@ -1,0 +1,40 @@
+/* customerDashboard.css */
+
+.customer-dashboard {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  h1 {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  h2 {
+    font-size: 20px;
+    margin-top: 20px;
+  }
+  
+  .table-bordered {
+    width: 100%;
+    border-collapse: collapse;
+    border: 1px solid #dee2e6;
+    border-radius: 4px;
+  }
+  
+  .table-bordered th, .table-bordered td {
+    border: 1px solid #dee2e6;
+    padding: 8px;
+    text-align: center;
+  }
+  
+  .text-warning {
+    color: #f0ad4e;
+  }
+  
+  .text-success {
+    color: #5bc0de;
+  }
+  
